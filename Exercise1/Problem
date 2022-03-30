@@ -1,0 +1,9 @@
+Relative prime representatives
+
+Input: 5 integers c, d, n such that gcd(c, d, n) = 1.
+
+Ouput: 4 integers x, y such that
+
+(i) gcd(x, y) = 1,
+(ii) x = c (mod n),
+(iii) y = d (mod n).
