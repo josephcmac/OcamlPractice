@@ -1,0 +1,2 @@
+# OcamlPractice
+Exercies in Ocaml
