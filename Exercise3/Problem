@@ -1,0 +1,11 @@
+Lifting from SL_2(Z/nZ) to SL_2(Z)
+
+Input: 5 integers a, b, c, d, n such that a*d - b*c = 1 (mod n).
+
+Ouput: 4 integers x, y, z, t such that
+
+x*t - y*z = 1
+x = a (mod n)
+y = b (mod n)
+z = c (mod n)
+t = d (mod n)

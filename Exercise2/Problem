@@ -1,11 +1,9 @@
-Lifting from SL_2(Z/nZ) to SL_2(Z)
+Extended Euclidean algorithm
 
-Input: 5 integers a, b, c, d, n such that a*d - b*c = 1 (mod n).
+Input: 2 integers a, b.
 
-Ouput: 4 integers x, y, z, t such that
+Ouput: 3 integers x, y, d such that
 
-x*t - y*z = 1
-x = a (mod n)
-y = b (mod n)
-z = c (mod n)
-t = d (mod n)
+ax + by = d
+
+where d = gcd(a, b)
